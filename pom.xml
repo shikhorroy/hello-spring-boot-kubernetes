@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>roy.mr</groupId>
-    <artifactId>hello-spring-boot-kubernetes</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>hello-spring-boot-kubernetes</name>
-    <description>hello-spring-boot-kubernetes</description>
+    <artifactId>spring-boot-app</artifactId>
+    <version>0.0.1</version>
+    <name>simple-spring-boot</name>
+    <description>simple spring-boot app.</description>
     <properties>
         <java.version>21</java.version>
     </properties>
